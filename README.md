@@ -1,0 +1,2 @@
+# yaml
+for clash
